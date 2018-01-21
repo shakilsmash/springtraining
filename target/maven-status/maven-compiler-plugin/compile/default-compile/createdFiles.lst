@@ -1,0 +1,6 @@
+hello\controller\UserController.class
+hello\repository\UserRepository.class
+hello\model\User.class
+hello\Application.class
+hello\controller\MainController.class
+hello\service\UserService.class
